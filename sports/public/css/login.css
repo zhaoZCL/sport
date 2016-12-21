@@ -1,0 +1,45 @@
+.loginBox .row{
+	margin-top: 32px;
+}
+.login_partners {
+	margin-left: 60px;
+}
+.btn-primary {
+    font-weight: bold;
+}
+.ng-active {
+    /*display: none;*/
+    color: red;
+}
+/*input.ng-invalid {
+    border: 1px solid red;
+}*/
+.error small {
+    color: red;
+    font-size: 14px;
+}
+.index
+{
+    margin: 0px auto;
+    height: 750px;
+    width: 650px;
+    border: 1px solid deepskyblue;
+}
+.index1
+{
+    border: 1px solid black;
+    margin-left: 15px;
+    float: left;
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
+}
+.index2
+{
+    border: 1px solid black;
+    margin-left: 15px;
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+}
